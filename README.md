@@ -1,1 +1,1 @@
-you only need to install Node.JS And Run install.bat and make sure to run this every time you use this and then run run.bat and make sure to keep it opened and then check your discord status
+you only need to install Node.JS from this link: https://nodejs.org/en/download/ And Make Sure To Install It With Chocolatey And then Run install.bat and then make sure to run this every time you use this and then run run.bat and make sure to keep it opened and then check your discord status
