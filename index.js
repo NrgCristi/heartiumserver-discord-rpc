@@ -5,9 +5,9 @@ const rpc = new RPC.Client({
 
 rpc.on('ready', () => {
     rpc.setActivity({
-        details: '',
-        state: '',
-        startTimestamp: '',
+        details: 'Using Heartium',
+        state: 'Heartium',
+        startTimestamp: '00:00',
         largeImageKey: '',
         largeImageText: '',
         smallImageKey: '',
@@ -16,8 +16,8 @@ rpc.on('ready', () => {
             label: 'Discord'
             url: 'https://discord.gg/9Uc7EbUztv'
         }, {
-            label: 'Youtube Channel'
-            url: 'https://youtube.com/channel/UCkhTX4pP3JdvS4IPaC-ExiQ'
+            label: 'Github'
+            url: 'https://github.com/CristianCosticea'
         }]
     })
 })
